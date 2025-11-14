@@ -1,5 +1,6 @@
 ## Olá! 👋
 
+
 <a href="https://www.linkedin.com/in/fscarmo/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -10,6 +11,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+
 ## Meu nome é <b>Felipe Sousa</b>, sou desenvolvedor full-stack.
 (.NET (C#) | Node JS | React JS | Java | TypeScript | Python)
 
@@ -19,11 +21,11 @@
 - ❤️ Apaixonado por programação e tecnologia
 - 💡 Motivado por novos desafios
 
+
 ### 📈 Minhas Estatísticas
-<div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=SousaFelipe&hide=issues&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&line_height=24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br"/>
-</div>
+
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=SousaFelipe&hide=issues&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&line_height=24)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br)
 
 ##
 
