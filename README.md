@@ -24,8 +24,10 @@
 
 ### 📈 Minhas Estatísticas
 
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=SousaFelipe&hide=issues&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&line_height=24)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br)
+<div style="inline_block">
+  <img src="https://github-readme-stats.vercel.app/api?username=SousaFelipe&hide=issues,&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
+</div>
 
 ##
 
