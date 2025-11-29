@@ -30,10 +30,37 @@
 </div>
 
 ## 💻 Tetch Stack
-[![Linguagens](https://skillicons.dev/icons?i=typescript,java,cs,php,python)](https://skillicons.dev)
-###
-[![Linguagens](https://skillicons.dev/icons?i=nodejs,spring,dotnet,react)](https://skillicons.dev)
-###
-[![Linguagens](https://skillicons.dev/icons?i=git,docker,kubernetes,rabbitmq)](https://skillicons.dev)
-###
-[![Linguagens](https://skillicons.dev/icons?i=postgres,mysql,supabase,redis)](https://skillicons.dev)
+<table>
+  <thead>
+    <tr>
+      <th>Linguagens</th>
+      <th>Frameworks</th>
+      <th>Ferramentas</th>
+      <th>Bancos de Dados</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=typescript,java,cs,php,python" />
+        </a>
+      </td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,react" />
+        </a>
+      </td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,rabbitmq" />
+        </a>
+      </td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
