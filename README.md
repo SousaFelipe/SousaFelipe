@@ -13,7 +13,6 @@
 
 
 ## Meu nome é <b>Felipe Sousa</b>, sou desenvolvedor full-stack.
-(.NET (C#) | Node JS | React JS | Java | TypeScript | Python)
 
 ### 🧠 Sobre
 - 🏢 Gerente de NOC & Dev Full-stack na <a href="https://upnetceprovedor.com.br/" target="_blank">Agility Quixeramobim</a>
