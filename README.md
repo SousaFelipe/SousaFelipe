@@ -29,7 +29,9 @@
   <img src="https://github-readme-stats-wheat-three-53.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
 </div>
 
-## 💻 Tetch Stack
+
+### 💻 Tetch Stack
+
 <table>
   <thead>
     <tr>
