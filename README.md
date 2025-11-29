@@ -29,14 +29,11 @@
   <img src="https://github-readme-stats-wheat-three-53.vercel.app/api/top-langs/?username=SousaFelipe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
 </div>
 
-##
-
-<div style="display: inline_block">
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+## 💻 Tetch Stack
+[![Linguagens](https://skillicons.dev/icons?i=typescript,java,cs,php,python)](https://skillicons.dev)
+###
+[![Linguagens](https://skillicons.dev/icons?i=nodejs,spring,dotnet,react)](https://skillicons.dev)
+###
+[![Linguagens](https://skillicons.dev/icons?i=git,docker,kubernetes,rabbitmq)](https://skillicons.dev)
+###
+[![Linguagens](https://skillicons.dev/icons?i=postgres,mysql,supabase,redis)](https://skillicons.dev)
