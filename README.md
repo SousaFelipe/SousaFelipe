@@ -44,7 +44,7 @@
     <tr align="center">
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=typescript,java,cs,php,python" />
+          <img src="https://skillicons.dev/icons?i=typescript,java,cs,python" />
         </a>
       </td>
       <td>
