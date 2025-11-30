@@ -35,9 +35,9 @@
   <thead>
     <tr>
       <th>Linguagens</th>
-      <th>Frameworks</th>
+      <th>Ambientes/Frameworks</th>
       <th>Ferramentas</th>
-      <th>Bancos de Dados</th>
+      <th>Bancos/Cache</th>
     </tr>
   </thead>
   <tbody>
