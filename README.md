@@ -15,7 +15,7 @@
 ## Meu nome é <b>Felipe Sousa</b>, sou desenvolvedor full-stack.
 
 ### 🧠 Sobre
-- 🏢 Arquiteto de soluções de Software/Rede na <a href="https://upnetceprovedor.com.br/" target="_blank">Agility Quixeramobim</a>
+- 🏢 Arquiteto de soluções de Software/Rede na <a href="https://www.instagram.com/wavextelecom/" target="_blank">Wavex Telecom</a>
 - 👨‍💻 Atualmente trabalho no desenvolvimento e integração de sistemas para ISPs
 - ❤️ Apaixonado por programação e tecnologia
 - 💡 Motivado por novos desafios
